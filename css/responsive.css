@@ -1,0 +1,12 @@
+/* Responsive for Phones */
+@media only screen and (max-width: 600px) {
+    .mid-nav{
+        display: none;
+    }
+    .right-nav{
+        display: none;
+    }
+    .bar{
+        display: block;
+    }
+  }
