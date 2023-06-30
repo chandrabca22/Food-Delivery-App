@@ -42,8 +42,9 @@ header{
 }
 .hero{
     width: 100%;
-    min-height: 83vh;
+    min-height: 85vh;
     background-image: url(../img/Rectangle\ 48.png);
+    background-repeat: no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -73,7 +74,7 @@ header{
 .buttons{
     display: flex;
     justify-content: center;
-    margin-top: 25px;
+    margin-top: 50px;
 }
 .buttons button{
     padding: 10px 20px;
@@ -100,13 +101,12 @@ header{
 .app-pic-1 img{
     width: 500px;
     position: relative;
-    bottom: 50px;
+    bottom: 100px;
 }
 .line{
     display: flex;
     justify-content: center;
     align-items: center;
-    /* margin-top: 10px; */
 }
 .line p{
     width: 60%;
