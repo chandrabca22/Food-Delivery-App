@@ -42,7 +42,7 @@ header{
 }
 .hero{
     width: 100%;
-    min-height: 85vh;
+    min-height: 83vh;
     background-image: url(../img/Rectangle\ 48.png);
     display: flex;
     justify-content: center;
