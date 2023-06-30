@@ -9,4 +9,16 @@
     .bar{
         display: block;
     }
+    .text-content p{
+        font-size: 16px;
+    }
+    .text-content h1{
+        font-size: 36px;
+    }
+    .text-content h4{
+        font-size: 20px;
+    }
+    .buttons button{
+        padding: 5px 10px;
+    }
   }
