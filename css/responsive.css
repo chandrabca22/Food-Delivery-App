@@ -30,7 +30,8 @@
     }
     /* ----------------------section-1 Ends---------------------------- */
     .section-2{
-        display: block;
+        margin-top: 30px;
+        display: flex;
         flex-wrap: wrap-reverse;
     }
     .section-2-left{
@@ -49,11 +50,14 @@
         text-align: center;
     }
     .section-2-right h2{
+        font-size: 35px;
         text-align: center;
         margin: 20px 10px;
     }
     .section-2-right h4{
+        font-size: 20px;
         text-align: center;
         margin: 0 10px;
     }
-  }
+    /* ----------------------section-2 Ends---------------------------- */
+}
