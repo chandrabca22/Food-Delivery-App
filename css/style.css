@@ -125,3 +125,36 @@ header{
     font-weight: 600;
     opacity: 80%;
 }
+
+/* ----------------------section-1 Ends---------------------------- */
+
+.section-2{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.section-2-left{
+    width: 302px;
+    height: 525px;
+}
+.section-2-right{
+    width: 568px;
+    height: 280px;
+}
+.section-2-right h3{
+    font-size: 24px;
+    color: #FA4A0C;
+    letter-spacing: 0.1px;
+}
+.section-2-right h2{
+    font-size: 40px;
+    letter-spacing: 0.2px;
+    margin: 20px 0;
+}
+.section-2-right h4{
+    font-size: 24px;
+    letter-spacing: 0.2px;
+    color: #737373;
+}
