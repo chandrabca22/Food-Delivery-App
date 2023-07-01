@@ -13,3 +13,10 @@ At this point of time we have completed section-2 from section 2 we have started
 1. Create an account
 2. Create/login to an existing account to get started
 3. An account is created with your email and a desired password
+
+# Release Version 3.3.3
+Here we have just completed 3rd section of my website.
+
+1. Explore varieties
+2. Shop for your favorites meal as e dey hot.
+3. Shop for your favorite meals or drinks and enjoy while doing it.
