@@ -207,3 +207,40 @@ span{
     width: 290px;
 }
 /* ----------------------section-3 Ends---------------------------- */
+
+.section-4{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.section-4-left{
+    width: 302px;
+    height: 525px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section-4-left img{
+    width: 290px;
+}
+.section-4-right{
+    width: 568px;
+    height: 280px;
+}
+.section-4-right h3{
+    font-size: 24px;
+    color: #FA4A0C;
+    letter-spacing: 0.1px;
+}
+.section-4-right h2{
+    font-size: 40px;
+    letter-spacing: 0.2px;
+    margin: 20px 0;
+}
+.section-4-right h4{
+    font-size: 24px;
+    letter-spacing: 0.2px;
+    color: #737373;
+}

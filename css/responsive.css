@@ -90,4 +90,34 @@
         width: 250px;
     }
     /* ----------------------section-3 Ends---------------------------- */
+    .section-4{
+        margin-top: 30px;
+        display: flex;
+        flex-wrap: wrap-reverse;
+    }
+    .section-4-left{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .section-4-left img{
+        width: 250px;
+    }
+    .section-4-right{
+        width: 100%;
+    }
+    .section-4-right h3{
+        text-align: center;
+    }
+    .section-4-right h2{
+        font-size: 35px;
+        text-align: center;
+        margin: 20px 10px;
+    }
+    .section-4-right h4{
+        font-size: 20px;
+        text-align: center;
+        margin: 0 10px;
+    }
 }
