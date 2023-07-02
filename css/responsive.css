@@ -8,6 +8,22 @@
     .bar{
         display: block;
     }
+    .foot-img{
+        display: none;
+    }
+    footer{
+        display: block;
+    }
+    .social{
+        width: 100%;
+        height: 100px;
+    }
+    footer p{
+        text-align: center;
+    }
+    #face{
+        margin: 0px 25px;
+    }
 }
 
 /* Responsive for Phones */
@@ -133,4 +149,5 @@
         margin: 0 10px;
     }
     /* ----------------------section-4 Ends---------------------------- */
+
 }
