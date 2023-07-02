@@ -20,3 +20,10 @@ Here we have just completed 3rd section of my website.
 1. Explore varieties
 2. Shop for your favorites meal as e dey hot.
 3. Shop for your favorite meals or drinks and enjoy while doing it.
+
+# Release Version 4.4.4
+This is the final step while you buy anything from anywhere you need to pay for those things.
+
+1. Checkout
+2. When you done check out and get it delivered.
+3. When you done check out and get it delivered with ease.
