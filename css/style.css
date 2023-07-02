@@ -245,3 +245,46 @@ span{
     color: #737373;
 }
 /* ----------------------section-4 Ends---------------------------- */
+
+.section-5{
+    width: 100%;
+    height: 75vh;
+    background: url(../img/Rectangle\ 47.png);
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section-5-text h2{
+    font-size: 40px;
+    font-weight: 700;
+    color: #ffffff;
+    text-align: center;
+    margin: 0px 10px;
+}
+.section-5-text h4{
+    font-size: 24px;
+    font-weight: 500;
+    color: #ffffff;
+    text-align: center;
+    margin: 25px 10px 10px 10px;
+}
+.buttons-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.buttons-2 button{
+    padding: 10px 20px;
+    margin: 0px 10px;
+    background-color: #FA4A0C;
+    border: none;
+    border-radius: 5px;
+    color: #ffffff;
+}
+#appstr{
+    background: transparent;
+    border: 1px solid #E4E4E4;
+}
