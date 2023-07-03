@@ -37,16 +37,16 @@ header{
     font-weight: 500;
     color: #000000;
 }
-.bar{
+#bar{
     display: none;
 }
-.bar img{
+#bar img{
     width: 50px;
 }
-.bar-1{
+#bar-1{
     display: none;
 }
-.bar-1 img{
+#bar-1 img{
     width: 40px;
 }
 .hero{
