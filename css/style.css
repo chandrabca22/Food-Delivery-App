@@ -40,6 +40,15 @@ header{
 .bar{
     display: none;
 }
+.bar img{
+    width: 50px;
+}
+.bar-1{
+    display: none;
+}
+.bar-1 img{
+    width: 40px;
+}
 .hero{
     width: 100%;
     min-height: 85vh;
